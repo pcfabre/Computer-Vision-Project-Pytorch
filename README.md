@@ -1,5 +1,2 @@
 # Computer-Vision-Project
-
-Computer vision project with Udacity.
-
-The convolutional network architecture of the model is stored on the model.py file.
+This project consists in building a Convolutional Neural Network to predict the pixels of an image that contain facial keypoints. The architecture of the network is stored in the file models.py.
